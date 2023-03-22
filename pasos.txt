@@ -5,11 +5,10 @@
 5.git config user.name""(nombre de usuario)
 6.git config user.email ""(email)
 7.git remote add origin (link del repositorio)
-8.git pull (descargar el repositorio)
-9.git pull link del repositorio
-10.git status (podes ver el estado del repositorio)
-11.git add * (añadir cambios o modificaciones)
-12.git commit -m "" (comentario)
+8.git pull link del repositorio (descargar el repositorio)
+9.git status (podes ver el estado del repositorio)
+10.git add * (añadir cambios o modificaciones)
+11.git commit -m "" (comentario)
 12.git push -u origin master(actualizar repositorio)
 
 
